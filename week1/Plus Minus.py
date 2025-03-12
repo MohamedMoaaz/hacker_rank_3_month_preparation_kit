@@ -1,5 +1,4 @@
-
-#Plus Minus
+# Plus Minus
 
 def plusMinus(arr):
     arrSize = len(arr)
