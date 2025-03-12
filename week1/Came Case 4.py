@@ -1,2 +1,0 @@
-# Camel Case 4
-
