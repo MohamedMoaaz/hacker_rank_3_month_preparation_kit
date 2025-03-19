@@ -1,4 +1,4 @@
 #Page counter
 
 def pageCount(n, p):
-    return min(p//2, (n - (p//2) * 2) // 2)
+    return min(p//2, (n // 2) - (p // 2))
