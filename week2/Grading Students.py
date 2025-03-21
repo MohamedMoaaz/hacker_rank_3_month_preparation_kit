@@ -1,5 +1,3 @@
-# Grading Students
-
 def gradingStudents(grades):
     rounded_grades = []
     for grade in grades:
@@ -8,7 +6,7 @@ def gradingStudents(grades):
         rounded_grades.append(grade)
     return rounded_grades
 
-# more pyhtonic 
+# another solution
 
 def gradingStudents(grades):
     return [grade if grade < 38 or grade % 5 < 3 else grade + 5 - (grade % 5) for grade in grades]
