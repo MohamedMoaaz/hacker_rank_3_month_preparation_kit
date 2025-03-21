@@ -1,5 +1,3 @@
-# Mars Exploration
-
 def marsExploration(s):
     c = 0
     for i in range (len(s)):
