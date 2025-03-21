@@ -1,5 +1,3 @@
-# Breaking the Records
-
 def breakingRecords(scores):
     _min = scores[0]
     _max = scores[0]
