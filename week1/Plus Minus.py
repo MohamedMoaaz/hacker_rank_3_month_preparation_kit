@@ -1,5 +1,3 @@
-# Plus Minus
-
 def plusMinus(arr):
     arrSize = len(arr)
     countPositive = sum(1 for x in arr if x > 0)
