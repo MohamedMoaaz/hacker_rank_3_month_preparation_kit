@@ -1,5 +1,3 @@
-# Migratory Birds
-
 from collections import Counter
 
 def most_frequent_smallest_bird(arr):
