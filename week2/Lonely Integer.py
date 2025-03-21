@@ -1,5 +1,3 @@
-# Lonely Integer
-
 def lonelyinteger(a):
     for i in a:
         count = a.count(i)
