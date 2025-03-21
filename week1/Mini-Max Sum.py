@@ -1,5 +1,3 @@
-# Mini Max Sum
-
 def miniMaxSum(arr):
     arr.sort()
     miniSum = sum(arr[:4])
