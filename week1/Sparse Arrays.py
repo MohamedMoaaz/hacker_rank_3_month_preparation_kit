@@ -1,5 +1,3 @@
-# Sparse Arrays
-
 def matchingStrings(strings, queries):
     string_counts = {}
     for string in strings:
