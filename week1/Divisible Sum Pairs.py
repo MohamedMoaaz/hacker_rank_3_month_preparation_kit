@@ -1,5 +1,3 @@
-# Divisible Sum Pairs
-
 def divisibleSumPairs(n, k, ar):
     num = 0
     for i in range (len(ar)):
