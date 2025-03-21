@@ -1,5 +1,3 @@
-# Time Conversion
-
 def timeConversion(s):
     timeSplit = s.split(':')
     hours = timeSplit[0]
