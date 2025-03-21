@@ -1,5 +1,3 @@
-# Zig Zag Sequence
-
 def findZigZagSequence(a, n):
     a.sort()
     mid = int((n - 1)/2)
