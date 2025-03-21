@@ -1,5 +1,3 @@
-# Camel Case 4
-
 import sys
 import re
 
